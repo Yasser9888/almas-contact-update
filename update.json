@@ -1,5 +1,5 @@
 {
   "version": "26.8.2",
-  "release_notes": "- چاکسازی و باشترکردنی گشتی",
+  "release_notes": "- چاککردن و ڕێکخستنی داگرتنی ئۆتۆماتیکی بۆ فۆڵدەری ALMAS Sync\n- ڕێگریکردن لە دووبارە داگرتنەوە لە کاتی کلیک کردن لەسەر Refresh\n- چارەسەرکردنی ڕێشەیی سستبوونی بەرنامەکە و باشترکردنی خێرایی Load بوونی Thumbnail\n- زیادکردنی فلتەری کاتی (Today, Yesterday, 1 Week, 1 Month, 6 Months) بۆ بەشی Deleted Files\n- چارەسەرکردنی کێشەی دیارنەمانی وێنەی QR Code لە سێتئەپدا\n- چاکسازی گشتی لە سێستەمی فلتەر و تایتڵی لیستەکان",
   "download_url": "https://github.com/Yasser9888/almas-contact-update/releases/download/v26.8.2/ALMAS_Contact_Setup_v26.8.2.exe"
 }
